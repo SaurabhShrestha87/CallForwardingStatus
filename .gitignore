@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+release/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+gradle-wrapper.jar 
+
+# Project exclude paths
+/app/
+/docs/
+/fastlane/
+/gradle/
+/graphics/
