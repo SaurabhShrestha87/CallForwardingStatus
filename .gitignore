@@ -9,11 +9,4 @@ release/
 .externalNativeBuild
 .cxx
 local.properties
-gradle-wrapper.jar 
-
-# Project exclude paths
-/app/
-/docs/
-/fastlane/
-/gradle/
-/graphics/
+gradle-wrapper.jar
